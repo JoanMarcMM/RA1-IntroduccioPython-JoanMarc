@@ -1,0 +1,7 @@
+id,nombre,fecha_evento,categoria,precio
+1,Concierto Indie,2025-11-05,Concierto,35.0
+2,Taller de Fotografía,2025-12-01,Taller,49.9
+3,Congreso Tech 2025,2025-10-30,Conferencia,120.0
+4,Cata de Vinos,2025-11-20,Gastronomía,40.0
+5,Festival Jazz,2025-08-15,Concierto,30.0
+6,Masterclass UX,2025-09-10,Taller,60.0
